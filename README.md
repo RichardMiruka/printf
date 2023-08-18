@@ -1,7 +1,6 @@
 # printf
 A project on printf function 💥 , An ALX team project written by Richard Miruka
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb18zkbUefxh6MAQSOfV_9X9i2HMUVvUloLQ&usqp=CAU)
 # Write your own printf function.
 
 ### Authorized functions and macros
@@ -22,7 +21,7 @@ A project on printf function 💥 , An ALX team project written by Richard Miruk
 [Flowcharts](https://alx-intranet.hbtn.io/concepts/130)
 
 ###  gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c
-
-Authors: [Richard Miruka](https://github.com/RichardMiruka) 
         
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjvSbZ7AEEr4Eh5jpKLM-zU-aicSUNaeXR-Q&usqp=CAU)
+
+Authors: [Richard Miruka](https://github.com/RichardMiruka) 
