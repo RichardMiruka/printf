@@ -3,8 +3,6 @@ A project on printf function 💥 , An ALX project written by Richard Miruka
 
 # Write your own printf function.
 
-![](<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/228/printf.png">)
-
 ### Authorized functions and macros
 - write (man 2 write)
 - malloc (man 3 malloc)
